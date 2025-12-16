@@ -1,16 +1,48 @@
-## Hi there 👋
+Hi 👋,
+    I'm ADITI KANTHARIA
 
-<!--
-**aditikantharia/aditikantharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer | 🚀 Learner | 🌍 Open Source
 
-Here are some ideas to get you started:
+ 🚀 About Me
+  - 💻 I’m an IT student
+  - 🌱 Currently learning full stack devlopment
+  - 👯 Looking to collaborate on open-source projects
+  - 📫 How to reach me: aditikantharia@email.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+  - frontend skill : HTML, CSS, JavaScript
+  - backend skill : Node.js,Express
+  - Tools : Canva, vs code
+
+⚡ Fun Facts
+  - I code more at night 🌙
+  - I love solving bugs more than writing code
+  - Coffee = Code ☕
+
+🎯 Hobbies
+  - Debugging code 🐞
+  - Late-night coding 🌙
+  - Music while coding 🎧
+  - Turning ideas into projects 💡
+    
+⚡ Current Focus
+  - Strengthening problem-solving skills
+  - Building real-world projects
+  - Preparing for internships
+
+📢 Open To
+  - Internships
+  - Entry-level roles
+  - Open-source collaboration
+
+💬 Favorite Quote
+      "First, solve the problem. Then, write the code." – John Johnson 
+
+ 📈 GitHub Stats
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditikantharia&show_icons=true)
+
+🌐 Connect with Me
+- 📧 Email: aditikantharia@email.com
+- 💼 LinkedIn:(https://www.linkedin.com/in/aditi-kantharia-54ba202b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
