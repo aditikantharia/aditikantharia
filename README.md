@@ -4,7 +4,7 @@ Hi 👋,
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=ADITI+KANTHARIA;Web+Developer;Open+to+Internships)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+to+AditiKanthria's+Profile&fontSize=50" />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADITI_KANTHARIA&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditikantharia&show_icons=true)
 
 
 
