@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+My+GitHub;Happy+Coding!" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+My+GitHub;Happy+Coding!;Do+Your+Best" />
 </p>
 
 ---
