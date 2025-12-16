@@ -1,5 +1,8 @@
 Hi 👋,
     I'm ADITI KANTHARIA
+    
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Student+Developer;Learning+Every+Day;Building+Projects)
+
 
 💻 Developer | 🚀 Learner | 🌍 Open Source
 
