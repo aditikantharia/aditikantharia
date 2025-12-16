@@ -80,4 +80,7 @@
 - 📧 Email: **aditikantharia@email.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/aditi-kantharia-54ba202b2
 
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
 -ADITI KANTHARIA
