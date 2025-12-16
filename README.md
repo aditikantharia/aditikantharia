@@ -1,9 +1,9 @@
 Hi 👋,
     I'm ADITI KANTHARIA
     
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Student+Developer;Learning+Every+Day;Building+Projects)
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=ADITI+KANTHARIA;Web+Developer;Open+to+Internships)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+to+My+Profile&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+to+AditiKanthria's+Profile&fontSize=50" />
 
 
 💻 Developer | 🚀 Learner | 🌍 Open Source
