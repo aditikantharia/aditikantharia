@@ -6,7 +6,8 @@
                              ![Typing SVG](https://readme-typing-svg.demolab.com?lines=ADITI+KANTHARIA;Web+Developer;Open+to+Internships)
 
                              
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Hey!+I'm+Aditi+Kantharia&fontSize=40&fontAlignY=35" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Web+Developer;IT+Student;Open+to+Internships)
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+to+Aditi+Kantharia's+Profile&fontSize=50" />
