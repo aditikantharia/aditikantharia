@@ -2,6 +2,7 @@ Hi 👋,
     I'm ADITI KANTHARIA
     
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Student+Developer;Learning+Every+Day;Building+Projects)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Your+Name;Web+Developer;Open+to+Internships)
 
 
 💻 Developer | 🚀 Learner | 🌍 Open Source
