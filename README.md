@@ -38,6 +38,7 @@ Hi 👋,
 💬 Favorite Quote
       "First, solve the problem. Then, write the code." – John Johnson 
 
+
  📈 GitHub Stats
     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditikantharia&show_icons=true)
 
@@ -45,4 +46,4 @@ Hi 👋,
 - 📧 Email: aditikantharia@email.com
 - 💼 LinkedIn:(https://www.linkedin.com/in/aditi-kantharia-54ba202b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-
+-ADITI KANTHARIA
