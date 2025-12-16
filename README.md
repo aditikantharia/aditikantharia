@@ -4,8 +4,6 @@ Hi 👋,
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=ADITI+KANTHARIA;Web+Developer;Open+to+Internships)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+to+AditiKanthria's+Profile&fontSize=50" />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditikantharia&show_icons=true)
-
 
 
 💻 Developer | 🚀 Learner | 🌍 Open Source
@@ -31,6 +29,10 @@ Hi 👋,
   - Late-night coding 🌙
   - Music while coding 🎧
   - Turning ideas into projects 💡
+  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+My+GitHub;Happy+Coding!" />
+</p>
     
 ⚡ Current Focus
   - Strengthening problem-solving skills
